@@ -1,9 +1,5 @@
 ---
 
-port: 4000
-host: 0.0.0.0
-safe: false
-
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
@@ -14,9 +10,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "greyhoundforty"
+description: "a small site for hosting various scripts I am working on"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
